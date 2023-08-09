@@ -65,7 +65,7 @@ function verificarProximidade(latitude, longitude) {
  // Enviar mensagem para o telegram
 function enviarDistanciaTelegram(localizacoes) {
   const url = '/enviar_distancia';
-  const chatId = -1001740152545; 
+  const chatId = 1110850646; 
   const data = { localizacoes: localizacoes, chat_id: chatId };
 
   fetch(url, {
