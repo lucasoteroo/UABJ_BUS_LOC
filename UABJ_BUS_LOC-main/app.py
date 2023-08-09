@@ -4,7 +4,7 @@ import os
 
 
 # Token de acesso do bot do Telegram
-token = '6103231923:AAH1sxXKyQMZrwbrjT9VsL5coUK7OD24qT4'
+token = '6679558666:AAETMfbJW63UbUfP1008S87WMndbGuCrZc0'
 
 # Cria uma nova instância do bot
 bot = telebot.TeleBot(token)
